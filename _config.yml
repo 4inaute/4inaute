@@ -1,4 +1,4 @@
-site: Duet Jekyll Theme
+site: 4 in a ute
 
 collections:
   pages:
@@ -8,7 +8,7 @@ collections:
     output: true
     permalink: /blog/:slug
   projects:
-    output: true
+    output: false
     permalink: /project/:slug
 
 defaults:

@@ -3,10 +3,10 @@ title: 'Demo 4inaute Fraser Island Post'
 subtitle: 'This is a demo post'
 date: 2019-07-17 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/Hero-Fraser-Island.jpg'
+featured_image: '/images/Sqaure-Fraser-Island.jpg'
 ---
 
-![](/images/Sqaure-Fraser-Island.jpg)
+![](/images/Hero-Fraser-Island.jpg)
 
 ## Demo content
 

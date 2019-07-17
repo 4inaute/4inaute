@@ -64,12 +64,12 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
+  accent_color: '#FF8669'
   border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
+  overlay_background_color: '#FF8669'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
-  error_color: '#D64541'
+  error_color: '#BF313C'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
@@ -163,7 +163,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
+  analytics_code: "UA-144039980-1"
   custom_styles: ""
   header_js: ""
   footer_js: ""

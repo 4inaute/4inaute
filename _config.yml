@@ -60,3 +60,6 @@ grid_columns:
   three: Three
   four: Four
   
+# Google Analytics
+google_analytics: UA-144039980-1
+

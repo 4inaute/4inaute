@@ -1,7 +1,7 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
+title: About 4inaute
+subtitle: We are Gayle, Brenton, Lewis & Amber and we're from the Mornington Peninsula in Victoria. 
+
 featured_image: /images/demo/demo-landscape.jpg
 ---
 

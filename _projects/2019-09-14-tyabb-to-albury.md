@@ -2,10 +2,10 @@
 title: 'And we're away'
 date: 2019-09-15 00:00:00
 description: Recap of our first day travelling towards Hervey Bay via Albury. With stops at Yarraglen and Bonnie Doon before making it to our destination for the day, Albury.
-featured_image: '/images/0919/001_140919.jpg'
+featured_image: '/images/0919/001-140919.jpg'
 ---
 
-![](/images/location/placeholder_1.jpg)
+![](/images/0919/001-140919.jpg)
 
 We are away! Everything was finally loaded in after weeks of planning and custom fit out in the ute and trailer. This is our first time travelling with this set up since we expanded our kit with, fridge, battery and new dust proof storage boxes for sleeping and cooking gear. 
 
@@ -18,12 +18,11 @@ We stopped at Yarra Glen for lunch and enjoyed the adventure playground which ha
 Arriving in Albury it was wonderful to see family, including Amanda and Dan who have returned from Germany. We are staying 3 nights to celebrate Nana’s birthday, relax and enjoy.
 
 <div class="gallery" data-columns="3">
-	<img src="/images/0919/001_140919.jpg">
-	<img src="/images/0919/002_140919.jpg">
-	<img src="/images/0919/003_140919.jpg">
-	<img src="/images/0919/004_140919.jpg">
-	<img src="/images/0919/005_140919.jpg">
-	<img src="/images/0919/006_140919.jpg">
-  <img src="/images/0919/007_140919.jpg">
-	<IMG src="/images/0919/008_140919.jpg">
+	<img src="/images/0919/002-140919.jpg">
+	<img src="/images/0919/003-140919.jpg">
+	<img src="/images/0919/004-140919.jpg">
+	<img src="/images/0919/005-140919.jpg">
+	<img src="/images/0919/006-140919.jpg">
+  <img src="/images/0919/007-140919.jpg">
+	<IMG src="/images/0919/008-140919.jpg">
 </div>

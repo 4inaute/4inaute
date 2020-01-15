@@ -3,7 +3,7 @@ title: 'Tyabb to Albury'
 subtitle: 'Day 1 of Fraser Island Journey'
 date: 2019-09-14 00:00:00
 description: Recap of our first day travelling towards Hervey Bay via Albury. With stops at Yarraglen and Bonnie Doon before making it to our destination for the day, Albury.
-featured_image: '/images/0919/001-140919.jpg'
+featured_image: '/images/0919/005-140919.jpg'
 ---
 
 <div class="gallery" data-columns="1">

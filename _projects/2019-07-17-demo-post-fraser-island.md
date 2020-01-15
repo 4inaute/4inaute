@@ -1,100 +1,29 @@
 ---
-title: 'Demo 4inaute Fraser Island Post'
-subtitle: 'This is a demo post'
-date: 2019-07-17 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/Square-Fraser-Island.jpg'
+title: 'Tyabb to Albury'
+subtitle: 'Day 1 of Fraser Island Journey
+date: 2019-09-14 00:00:00
+description: Recap of our first day travelling towards Hervey Bay via Albury. With stops at Yarraglen and Bonnie Doon before making it to our destination for the day, Albury.
+featured_image: '/images/0919/001-140919.jpg'
 ---
 
-![](/images/Hero-Fraser-Island.jpg)
+![](/images/0919/001-140919.jpg)
 
-## Demo content
+We are away! Everything was finally loaded in after weeks of planning and custom fit out in the ute and trailer. This is our first time travelling with this set up since we expanded our kit with, fridge, battery and new dust proof storage boxes for sleeping and cooking gear. 
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+At the request of the kids we set off the ‘back way’ to Albury, via Melba Highway, Goulburn Valley Highway and Midland Highway before joining the Hume at Benalla. Travelling up East Link it occurred to us of possible increased tolls for the trailer but a quick google confirmed only the ute (car) is charged.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+It was simply a glorious day and such a relaxing drive with barely any traffic, lovely scenery through forest, rolling green countryside, glimpses of snow capped mountains and full rivers. 
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+We stopped at Yarra Glen for lunch and enjoyed the adventure playground which has a huge variety of activities. In the afternoon we added some serenity with a stop at Bonnie Doon, walking across the 385 metre long bridge which forms part of the Great Victorian Rail Trail.
 
-You can create lists:
+Arriving in Albury it was wonderful to see family, including Amanda and Dan who have returned from Germany. We are staying 3 nights to celebrate Nana’s birthday, relax and enjoy.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+<div class="gallery" data-columns="2">
+	<img src="/images/0919/002-140919.jpg">
+	<img src="/images/0919/003-140919.jpg">
+	<img src="/images/0919/004-140919.jpg">
+	<img src="/images/0919/005-140919.jpg">
+	<img src="/images/0919/006-140919.jpg">
+        <img src="/images/0919/007-140919.jpg">
+	<img src="/images/0919/008-140919.jpg">
 </div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>

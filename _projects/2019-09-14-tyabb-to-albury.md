@@ -6,11 +6,11 @@ description: Recap of our first day travelling towards Hervey Bay via Albury. Wi
 featured_image: '/images/0919/005-140919.jpg'
 ---
 
-<div class="gallery" data-columns="1">
-	<img src="/images/0919/001-140919.jpg">
-</div>
+### Day 1 of Fraser Island Journey
 
-**We are away!** Everything was finally loaded in after weeks of planning and custom fit out in the ute and trailer. This is our first time travelling with this set up since we expanded our kit with, fridge, battery and new dust proof storage boxes for sleeping and cooking gear. 
+![](/images/0919/005-140919.jpg)
+
+We are away! Everything was finally loaded in after weeks of planning and custom fit out in the ute and trailer. This is our first time travelling with this set up since we expanded our kit with, fridge, battery and new dust proof storage boxes for sleeping and cooking gear. 
 
 At the request of the kids we set off the ‘back way’ to Albury, via Melba Highway, Goulburn Valley Highway and Midland Highway before joining the Hume at Benalla. Travelling up East Link it occurred to us of possible increased tolls for the trailer but a quick google confirmed only the ute (car) is charged.
 
@@ -20,7 +20,7 @@ We stopped at Yarra Glen for lunch and enjoyed the adventure playground which ha
 
 Arriving in Albury it was wonderful to see family, including Amanda and Dan who have returned from Germany. We are staying 3 nights to celebrate Nana’s birthday, relax and enjoy.
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
 	<img src="/images/0919/002-140919.jpg">
 	<img src="/images/0919/003-140919.jpg">
 	<img src="/images/0919/004-140919.jpg">
